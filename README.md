@@ -276,11 +276,12 @@
 
 <br/>
 
-### Support my Work
+### Support Me
 <br/>
 <a href="https://www.buymeacoffee.com/gustysap"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
+<br />
+<br/>
+<a href="https://saweria.co/gustysap"><img src="https://miro.medium.com/v2/resize:fit:340/1*Zv6P9O6aFyxKolLPwD2ghQ.png" width="300" height="150"/></a>
 <br />
 
 ### My GitHub Stats
